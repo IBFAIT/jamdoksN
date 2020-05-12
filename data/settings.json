@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Kei Ahnig",
+      "topics": [
+        {
+          "title": "Slugi",
+          "slug": "slugi"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
